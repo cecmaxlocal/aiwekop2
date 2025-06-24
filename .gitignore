@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/aiwekop2
+aiwekop2.so
+aiwekop2.dylib
+aiwekop2.dll
+aiwekop2.a
+aiwekop2.lib
+aiwekop2-test-*
+*.exe
+*.o
+*.obj
+*.lst
