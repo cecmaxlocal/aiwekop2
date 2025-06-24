@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"versions": {
+	},
+	
+  "dependencies": {
+    "aiwekop2": "~>1.0.0"
+  }
+
+}
+
