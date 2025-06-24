@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"denis"
+	],
+	"copyright": "Copyright ® 2025, denis",
+	"description": "Of course. Here is a comprehensive, well-structured `README.md` file for a D language project named `aiwekop2`.",
+	"license": "This template is designed to be a starting point. You should replace the placeholder text with actual information about your project. I have included comments `<!-- ... -->` directly in the markdown to guide you.",
+	"name": "aiwekop2",
+
+  "dependencies": {
+    "aiwekop2": "~>1.0.0"
+  }
+}
