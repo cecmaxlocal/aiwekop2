@@ -7,7 +7,4 @@
 	"license": "This template is designed to be a starting point. You should replace the placeholder text with actual information about your project. I have included comments `<!-- ... -->` directly in the markdown to guide you.",
 	"name": "aiwekop2",
 
-  "dependencies": {
-    "aiwekop2": "~>1.0.0"
-  }
 }
